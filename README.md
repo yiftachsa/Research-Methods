@@ -21,3 +21,8 @@ In this paper We trained a deep CNN model to identify ill tomato plants using a 
   <img src="Media/research_methods_4.png" width=40% />
   <img src="Media/research_methods_6.png" width=25% />
 </p>
+
+
+<p align="center">
+<img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
+</p>
